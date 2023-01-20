@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <books>
+    <book>
+      <isbn>123-456-789</isbn>
+      <title>The Great Gatsby</title>
+      <author>F. Scott Fitzgerald</author>
+      <totalCopies>13</totalCopies>
+      <availableCopies>13</availableCopies>
+      <borrowedBy>
+        <user>
+          <id>77</id>
+          <name>Sherry</name>
+          <borrowedDate>2023-01-10</borrowedDate>
+          <dueDate>2023-02-10</dueDate>
+        </user>
+        <user>
+          <id>25</id>
+          <name>Haris</name>
+          <borrowedDate>2023-01-10</borrowedDate>
+          <dueDate>2023-02-10</dueDate>
+        </user>
+      </borrowedBy>
+    </book>
+    <book>
+      <isbn>234-567-890</isbn>
+      <title>Pride and Prejudice</title>
+      <author>Jane Austen</author>
+      <totalCopies>8</totalCopies>
+      <availableCopies>6</availableCopies>
+      <borrowedBy>
+        <user>
+          <id>2</id>
+          <name>John Doe</name>
+          <borrowedDate>2022-03-01</borrowedDate>
+          <dueDate>2022-04-01</dueDate>
+        </user>
+      </borrowedBy>
+    </book>
+    <book>
+      <isbn>111-222-333</isbn>
+      <title>The Rudest Book Ever</title>
+      <author>Shwetabh Gangwar</author>
+      <totalCopies>6</totalCopies>
+      <availableCopies>6</availableCopies>
+    </book>
+    <book>
+      <isbn>100-658-333</isbn>
+      <title>Man's Search For Meaning</title>
+      <author>Viktor Frankl</author>
+      <totalCopies>3</totalCopies>
+      <availableCopies>3</availableCopies>
+    </book>
+    <book>
+      <isbn>300-666-666</isbn>
+      <title>It Ends With Us</title>
+      <author>Colleen Hover</author>
+      <totalCopies>9</totalCopies>
+      <availableCopies>9</availableCopies>
+    </book>
+    <book>
+      <isbn>900-134-786</isbn>
+      <title>A Heart That Works</title>
+      <author>Rob Delaney</author>
+      <totalCopies>5</totalCopies>
+      <availableCopies>5</availableCopies>
+    </book>
+  </books>
+  <members>
+    <member>
+      <id>9</id>
+      <name>mazhar</name>
+      <email>abc@email.com</email>
+      <phone>00000000</phone>
+      <address>Islamabad</address>
+    </member>
+    <member>
+      <id>22</id>
+      <name>Usama</name>
+      <email>usama@email.com</email>
+      <phone>111444222</phone>
+      <address>G-9</address>
+    </member>
+  </members>
+</library>
